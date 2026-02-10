@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated: February 2, 2026
+Last updated: February 10, 2026
 
 This Privacy Policy describes how Super Strong (“the App,” “we,” or “us”) handles information when you use the Super Fit mobile application.
 
