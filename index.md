@@ -33,9 +33,9 @@ We do not sell your personal data.
 
 The App may offer paid subscriptions or features through Apple’s In-App Purchase system.
 
-All payments are processed by Apple.
+All payments are processed by Apple. We do not collect or store payment card details.
 
-We do not collect or store payment card details.
+We use a third-party service, RevenueCat, to manage subscriptions, verify purchases, and provide entitlement status within the App. RevenueCat may process limited technical and transaction-related information (such as device identifiers, subscription status, and purchase history) solely for the purpose of operating subscription functionality.
 
 Subscription management, billing, and refunds are handled through your Apple account.
 
