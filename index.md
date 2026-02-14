@@ -1,3 +1,5 @@
+If you have any questions on the app or would like to provide feedback, please email us at: superstrongappcontact@gmail.com
+
 Privacy Policy
 
 Last updated: February 10, 2026
